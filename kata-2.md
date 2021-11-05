@@ -82,7 +82,7 @@ If you did not create a "Test" folder in the previous section about `mkdir`, do 
 
 Now, go back to Windows Terminal. Type the command `cd Test` and press enter to tell Windows Terminal to look inside the new directory you just created.
 
-Now type `Set-Content test.txt "My name is Jon"` and press enter. But instead of "Jon", put your name. This command will tell Windows Terminal to make a new file named "test.txt" and to put the text "My name is Jon" (or whatever your name is) inside that file. To make sure the file got created, type `ls` and press enter. All those commands together should look something like this.
+Now type `Set-Content test.txt "My name is Jon"` (making sure to include the double quote characters `"`) and press enter. But instead of "Jon", put your name. This command will tell Windows Terminal to make a new file named "test.txt" and to put the text "My name is Jon" (or whatever your name is) inside that file. To make sure the file got created, type `ls` and press enter. All those commands together should look something like this.
 
 ![Create file](create-file.png)
 
