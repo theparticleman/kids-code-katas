@@ -9,7 +9,7 @@ The first program we are going to use is called File Explorer. Your computer is 
 
 File Explorer is a special program on your computer that comes with Windows. It lets you view all the files and folders on your computer.
 
-To open (or run) File Explorer, press the Windows key on your keyboard, then start typing "File Explorer". File Explorer should come up in the search results. Click on it.
+To open (or run) File Explorer, press the Windows key on your keyboard, then start typing `File Explorer`. File Explorer should come up in the search results. Click on it.
 
 A File Explorer window should open. It should look something like this (though it might look a little different if you are using a different version of Windows than I am).
 
@@ -22,7 +22,7 @@ A web browser is a program that lets your computer talk to other computers. Web 
 
 There are many different web browsers. Some common ones are named Chrome, Firefox, and Safari. Windows comes with a web browser named Edge.
 
-To open (or run) Edge, press the Windows key, then start typing "Edge". A program named "Microsoft Edge" should come up in the search results. Click on it.
+To open (or run) Edge, press the Windows key, then start typing `Edge`. A program named "Microsoft Edge" should come up in the search results. Click on it.
 
 When Edge opens, it should look something like this.
 
@@ -35,13 +35,13 @@ Click on the address bar and type in `vscode.dev`. Then press enter. This tells 
 ![Visual Studio Code](vscode.png)
 
 ## Windows Terminal
-Windows Terminal is a program that lets you run commands and other programs by typing their names. To open it, press the Windows key, then start typing "Windows Terminal". Windows Terminal should come up in the search results. Click it.
+Windows Terminal is a program that lets you run commands and other programs by typing their names. To open it, press the Windows key, then start typing `Terminal`. Windows Terminal should come up in the search results. Click it.
 
 When Windows Terminal opens, it should look something like this.
 
 ![Windows Terminal](windows-terminal.png)
 
-Type the command "ls" and press enter. Windows Terminal should show a list of files. Those are the files that are in the directory (or folder) than Windows Terminal is currently set to look in.
+Type the command `ls` and press enter. Windows Terminal should show a list of files. Those are the files that are in the directory (or folder) than Windows Terminal is currently set to look in.
 
 We'll learn more about Windows Terminal in a future kata.
 
