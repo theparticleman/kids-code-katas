@@ -30,4 +30,26 @@ When Edge opens, it should look something like this.
 
 The area the red arrow is pointing at is called the address bar. This is how you tell the web browser (sometimes just called a browser) which othe computer you would like to talk to.
 
-Click on the address bar and type in 
+Click on the address bar and type in `vscode.dev`. Then press enter. This tells your web browser to look for a computer named `vscode.dev` and ask it for a web page. Assuming your browser is able to to all that, the result should look something like this.
+
+![Visual Studio Code](vscode.png)
+
+## Windows Terminal
+Windows Terminal is a program that lets you run commands and other programs by typing their names. To open it, press the Windows key, then start typing "Windows Terminal". Windows Terminal should come up in the search results. Click it.
+
+When Windows Terminal opens, it should look something like this.
+
+![Windows Terminal](windows-terminal.png)
+
+Type the command "ls" and press enter. Windows Terminal should show a list of files. Those are the files that are in the directory (or folder) than Windows Terminal is currently set to look in.
+
+We'll learn more about Windows Terminal in a future kata.
+
+## Your Assignment
+To show that you have completed this kata, you should
+
+* Open File Explorer. Find your Documents folder and see what files are in that folder.
+* Open your web browser (Edge). Navigate to `vscode.dev`.
+* Open Windows Terminal. Run the `ls` command.
+
+For each of these tasks you should take a screenshot to show that you have completed it. If you need help taking a screenshot and knowing where to send it, ask for help from a parent or whoever is helping you with these katas.
