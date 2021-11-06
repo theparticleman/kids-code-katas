@@ -14,6 +14,6 @@ You will need a web browser. Windows comes with a browser named Edge. The instru
 You will need the .NET 6 SDK installed.
 
 ## Katas
-* [Launching applications](kata-1.md)
-* [Command line](kata-2.md)
-* [Hello world](kata-3.md)
+1. [Launching applications](kata-1.md)
+1. [Command line](kata-2.md)
+1. [Hello world](kata-3.md)
